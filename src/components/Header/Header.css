@@ -1,0 +1,14 @@
+.header-style{
+  background-color: rgb(220, 203, 236);
+  color: blue;
+  margin:0 200px;
+  padding: 10px 0;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.header-style h1{
+  font-weight: 700;
+}
+.header-style span{
+  font-weight: 800;
+}

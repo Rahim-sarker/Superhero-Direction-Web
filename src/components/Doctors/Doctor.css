@@ -1,0 +1,35 @@
+.card-view{
+    width: 350px;
+    height: 500px;
+    background-color: rgb(220, 203, 236);
+    border-radius: 10px;
+}
+.card-view img{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+   position: relative;
+   left: 65px;
+   top: 10px;
+}
+.doctor-info{
+    padding-left: 40px;
+}
+.doctor-btn{
+    width: 200px;
+    height: 35px;
+    background-color: rgb(235, 235, 198);
+    margin-left: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+   font-weight: 700;
+   cursor: pointer;
+   margin-right: 5px;
+}
+.card-icon {
+    text-align: center;
+    
+}
+.card-icon i{
+    margin: 10px;
+}
