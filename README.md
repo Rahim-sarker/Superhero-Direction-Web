@@ -1,4 +1,41 @@
-# Getting Started with Create React App
+# Hello Doctor
+
+1. Book Appointment for doctor
+2. Know About consultation fees
+3. Total amount of fees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
